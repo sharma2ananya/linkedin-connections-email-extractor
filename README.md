@@ -1,6 +1,5 @@
 # linkedin-email-extractor
 ### A node web scraper to extract your linkedin connection emails
-*Currently not being actively maintained, but open to Pull Requests.*
 
 ## Important Note
 Scraping data off of LinkedIn is against their [User Agreement](https://www.linkedin.com/legal/user-agreement). This is purely intended for educational purposes.
@@ -12,8 +11,8 @@ LinkedIn allows you to export all of your connections' info into a csv, except f
 Additionally their API stopped allowing the extraction of emails around 2013-2014. Why don't we have access to our connections emails through their data export if we both agreed to share that info/data?
 
 ## Installation
-- Clone this repo `git clone https://github.com/FutoRicky/linkedin-email-extractor.git` or download
-- Move into the repo directory `cd linkedin-email-extractor`
+- Clone this repo `git clone https://github.com/sharma2ananya/linkedin-connections-email-extractor.git` or download
+- Move into the repo directory `cd connections-email-extractor`
 - Install dependencies `npm install`
 
 ## How to Use
